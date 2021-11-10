@@ -27,3 +27,5 @@ public class RansomNoteTest {
         Assertions.assertTrue(actual);
     }
 }
+
+
